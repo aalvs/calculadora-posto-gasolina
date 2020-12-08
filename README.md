@@ -40,6 +40,8 @@ Crie um programa que mostre o código do combustível escolhido, a quantidade de
 
 # 📝 Sobre o projeto
 
+- Curso JavaScript
+
 Este é um projeto acadêmico. Seu principal objetivo é facilitar a avaliação dos professores.
 
 ---
